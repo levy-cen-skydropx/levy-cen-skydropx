@@ -12,8 +12,6 @@ Backend Engineer en **[Skydropx](https://www.skydropx.com)**, la plataforma de e
 - 🛒 **E-commerce**: integración con Shopify y protección de envíos (Shopper Protect).
 - 🧹 **Calidad del código**: limpieza de feature flags, estandarización de carriers y corrección de bugs en producción.
 
-Mi fuerte es el backend, pero también construyo interfaces. Uso **Claude Code** y **Codex** en mi día a día para entregar funcionalidades completas, del modelo de datos a la UI.
-
 ### 🛠️ Cuando programo, uso
 
 **Backend**
