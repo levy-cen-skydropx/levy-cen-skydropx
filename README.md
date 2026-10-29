@@ -8,6 +8,12 @@ Backend Engineer en **[Skydropx](https://www.skydropx.com)**, la plataforma de e
 
 ### 🚀 En qué trabajo
 
+- 📦 **Cotizaciones de envío**: el flujo con el que los clientes cotizan y eligen paquetería.
+  - Cotizar y re-cotizar desde el drawer, incluyendo tarifas expiradas y cambios de paquete o empaque.
+  - Cotizaciones multi-paquete y soporte de carga consolidada (LTL) en los servicios de paquetería.
+  - Filtros, orden y badges en la vista de tarifas, más tarifas condicionales y selección de quién paga la tarifa.
+  - Duplicar, reordenar y guardar cotizaciones junto con su orden.
+  - Fiabilidad: cotizaciones que no terminaban, reconciliación de tarifas y casos borde en producción.
 - 💳 **Pagos e integraciones**: checkout con Mercado Pago y Wompi, desglose de facturación y comisiones.
 - 🛒 **E-commerce**: integración con Shopify y protección de envíos (Shopper Protect).
 - 🧹 **Calidad del código**: limpieza de feature flags, estandarización de carriers y corrección de bugs en producción.
